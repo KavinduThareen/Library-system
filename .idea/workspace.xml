@@ -5,61 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="704115c2-2c2f-46d0-96a3-9065c79f8c1c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Controller/LoginPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Controller/LoginPageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/DashbordMenu.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/DashbordMenu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/GetBook.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/GetBook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/RegisterPage.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/RegisterPage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/SideBar.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/SideBar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/Table_Load/SaveUser.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/Table_Load/SaveUser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/Table_Load/saveBook.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/Table_Load/saveBook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/Table_Load/saveBranch.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/Table_Load/saveBranch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/Table_Load/updateBranch.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/Table_Load/updateBranch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/Table_Load/updateUser.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/Table_Load/updateUser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/Table_Load/viewBook.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/Table_Load/viewBook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/Table_Load/viewBranch.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/Table_Load/viewBranch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/UserForm.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/UserForm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/adminLoginPage.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/adminLoginPage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/branch.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/branch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/dashboard.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/dashboard.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/history.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/history.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/loginBackGround.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/loginBackGround.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/mailimg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/mailimg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/manageBook.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/manageBook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/otp.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/otp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/retrunBook.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/retrunBook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/DashbordMenu.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/DashbordMenu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/GetBook.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/GetBook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/RegisterPage.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/RegisterPage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/SideBar.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/SideBar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/Table_Load/SaveUser.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/Table_Load/SaveUser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/Table_Load/saveBook.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/Table_Load/saveBook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/Table_Load/saveBranch.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/Table_Load/saveBranch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/Table_Load/updateBranch.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/Table_Load/updateBranch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/Table_Load/updateUser.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/Table_Load/updateUser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/Table_Load/viewBook.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/Table_Load/viewBook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/Table_Load/viewBranch.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/Table_Load/viewBranch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/UserForm.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/UserForm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/adminLoginPage.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/adminLoginPage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/branch.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/branch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/dashboard.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/dashboard.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/history.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/history.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/loginBackGround.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/loginBackGround.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/mailimg.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/mailimg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/manageBook.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/manageBook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/otp.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/otp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/img/retrunBook.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/img/retrunBook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Bo/Custom/BorrowBookServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Bo/Custom/BorrowBookServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Controller/LoginPageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Controller/LoginPageController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d04f9852-8a03-4934-a48d-a3fa4067fb25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d04f9852-8a03-4934-a48d-a3fa4067fb25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Forms/LoginPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Forms/LoginPage.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,31 +19,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2dirNAcsdrPAmVk5AnFxBL01bGK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Run.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/videos/Libary",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Run.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/videos/Libary&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Run" />
@@ -129,7 +84,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710501697666</updated>
-      <workItem from="1710501698814" duration="205000" />
+      <workItem from="1710501698814" duration="550000" />
+      <workItem from="1710502315283" duration="19000" />
+      <workItem from="1710502402300" duration="306000" />
     </task>
     <servers />
   </component>
