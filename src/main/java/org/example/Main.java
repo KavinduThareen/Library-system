@@ -17,6 +17,7 @@ public class Main extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("/Forms/LoginPage.fxml"));
         stage.setScene(new Scene(root));
         stage.show();
+        System.out.println("hi");
     }
 }
 

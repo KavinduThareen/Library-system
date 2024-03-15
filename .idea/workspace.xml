@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704115c2-2c2f-46d0-96a3-9065c79f8c1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d04f9852-8a03-4934-a48d-a3fa4067fb25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d04f9852-8a03-4934-a48d-a3fa4067fb25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Forms/LoginPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Forms/LoginPage.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="704115c2-2c2f-46d0-96a3-9065c79f8c1c" name="Changes" comment="updated all fiels" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,11 +80,24 @@
       <updated>1710501697666</updated>
       <workItem from="1710501698814" duration="550000" />
       <workItem from="1710502315283" duration="19000" />
-      <workItem from="1710502402300" duration="306000" />
+      <workItem from="1710502402300" duration="343000" />
     </task>
+    <task id="LOCAL-00001" summary="updated all fiels">
+      <option name="closed" value="true" />
+      <created>1710502727180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710502727180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated all fiels" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated all fiels" />
   </component>
 </project>
